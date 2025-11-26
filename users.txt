@@ -1,0 +1,4 @@
+maaaaaaaz,$2b$12$LmO3o/XvpJwo39UfRbFQpOnamgfWv6SZQQu2zjUGklU0pruOuyttG,cyber
+loo,$2b$12$1nlDH.S7wg24xvCi.VZoJ.VjxW/.qqsRFWpyxE2bMUUD8g2lxdjiK,admin
+maazincyber,$2b$12$GH9FtN6Oj4KbjQxA8lCsKOtgQmrG5WVbgciIEUDw/9N.fzbQctt3a,cyber
+maaztest1,$2b$12$V5LcG7MEDGW/jQx/GfmPeekxIhzBsONWFqdWzYr6Om5dX9ZLzoyy.,cyber
